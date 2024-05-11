@@ -1,4 +1,7 @@
 # XenForo-Link-Filter
+
+###### （Currently no Chinese Doc Tip）暂未制作简体中文版本文档，将在后续更新。  中文文档
+
 #### refer.min.js is old version of Link Filter.For use as an external js,please use these 2 js in LinkRefer folder.
 
 Shortly Describe: You can use your own link filter service to process all of link in your XF forum.
