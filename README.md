@@ -6,7 +6,7 @@ Eg: https://example.com will link to https://yourservice.com/?url=https://exampl
 So that you can block or remind user will enter a external website or etc.
 
 -------
-We also have an addon that can configureable at XenForo Admin CP. Download at Releases.
+### We also have an addon that can configureable at XenForo Admin CP. Download at [Releases](https://github.com/Tss-Website/XenForo-Link-Filter/releases).
 
 ## Usage:
 ##### As an external js:
