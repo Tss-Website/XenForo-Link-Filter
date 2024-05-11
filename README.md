@@ -13,7 +13,7 @@ So that you can block or remind user will enter a external website or etc.
 - Put `refer.min.js` and `whitelist.js` in your server.
 - Edit `whitelist.js`, you need to input urls that you dont want process by your link filter.Remember that this is an array, do not break it format or it may not work.
 - Edit `refer.min.js`, you need to change ` item.href="https://api.tsfk.top/refer/?url="+encodeURIComponent(item.href) ` at the EOF to your own link filter service, and it should accept a url parameter to show the link.
-- Put following content `<xf:js src="//your_js_url.com/refer.min.js" /> <xf:js src="//your_js_url.com/whitelist.js">` in your `PAGE_CONTAINER` template.
+- Put following content `<xf:js src="//your_js_url.com/refer.min.js" /> <xf:js src="//your_js_url.com/whitelist.js" />` in your `PAGE_CONTAINER` template.
 - You are now complete all of settings.
 ##### As an addon:
 - Configure it in your `Addons- This Addon- Options` in your XF AdminCP.
